@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.oracle.coherence.ce:coherence:20.06">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/oracle/coherence/ce/coherence/20.06/coherence-20.06.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/oracle/coherence/ce/coherence/20.06/coherence-20.06-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/oracle/coherence/ce/coherence/20.06/coherence-20.06-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
